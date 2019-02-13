@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
+%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -45,8 +45,8 @@
               <img src="${tweetSvg}" alt="Tweet"/>
           </a>
         <div class="text">
-          <h1>Congratulations!</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h1>Srinivas Chowdary!</h1>
+          <p>Welcome to my personal website. Keep visiting to view updated information</p>
         </div>
       </div>
     </div>
@@ -58,3 +58,6 @@
     <script src={$setBackgroundJs}"></script>
   </body>
 </html>
+
+
+
