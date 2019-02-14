@@ -7,11 +7,7 @@
     <title>Srinivas Jaladi</title>
     <meta name="description" content="" />
 
-    <spring:url value="/resources/gradients.css" var="gradientsCss" />
-    <spring:url value="/resources/styles.css" var="stylesCss" />
-    <spring:url value="/resources/set-background.js" var="setBackgroundJs" />
-    <spring:url value="/resources/tweet.svg" var="tweetSvg" />
-
+    
     <link href="${stylesCss}" rel="stylesheet">
     <link href="${gradientsCss}" rel="stylesheet">
   </head>
