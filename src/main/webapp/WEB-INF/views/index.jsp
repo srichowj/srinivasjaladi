@@ -33,6 +33,9 @@
         <nav class="website-nav">
          
         </nav>
+        <span>
+          <h4>About</h4>
+        </span>
       </header>
 
       <div class="message">
@@ -45,7 +48,7 @@
     </div>
 
     <footer>
-      
+
      
     </footer>
 
