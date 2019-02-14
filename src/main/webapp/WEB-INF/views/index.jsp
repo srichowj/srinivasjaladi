@@ -16,8 +16,8 @@
     <link href="${gradientsCss}" rel="stylesheet">
   </head>
   <body class="">
-    <div class="wrapper">
-      <div class="graphics">
+    <div >
+      <div >
         
       </div>
 
