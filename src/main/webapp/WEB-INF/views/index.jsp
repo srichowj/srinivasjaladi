@@ -35,13 +35,7 @@
             <p>Some text here too.</p>
           </div>
         </div>
-      <div class="message">
-          
-        <div class="text">
-          <h1>Srinivas Chowdary!</h1>
-          <p>Welcome to my personal website. Keep visiting to view updated information</p>
-        </div>
-      </div>
+      
     </div>
 
     <footer>
