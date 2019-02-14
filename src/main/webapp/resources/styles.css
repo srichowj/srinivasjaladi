@@ -178,10 +178,7 @@ footer .footer-contents {
     font-size: 5rem;
   }
 
-  .message .twitter-link img {
-    width: 80%;
-    height: 80%;
-  }
+  
 }
 
 @media (min-aspect-ratio: 11/5)  {
