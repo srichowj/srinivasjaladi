@@ -25,7 +25,7 @@
       </header>
       <div class="split left">
           <div class="centered">
-            <img src="img1.jpg" alt="Avatar woman" style="width:50px;height:60px;">
+            <img src="tweet.svg" alt="Avatar woman" style="width:50px;height:60px;">
             <h2>Need to display picture here</h2>
             <p>Some text.</p>
           </div>
