@@ -7,30 +7,57 @@
   z-index: 1;
   top: 0;
   overflow-x: hidden;
-  padding-top: 20px;
+  padding-top: 0;
 }
 
 /* Control the left side */
 .left {
+	height: 100%;
+  width: 40%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
   left: 0;
-  background-color: white;
+  background-color: #baecf1;
 }
 
 /* Control the right side */
 .right {
   right: 0;
-  background-color: #c4ac3c;
+  background-color: white;
+  position: static;
+  top: 0;
 }
 
 /* If you want the content centered horizontally and vertically */
 .centered {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
+  font-size: 30px;
+  top: 40px;
+  left: 45%;
+  
+  text-align: left;
+}
+.para{
+	
+font-size: 25px;	
 }
 
+.headings{
+	
+	font-clor: #baecf1;
+}
+
+h2,h1,h3 {
+  color: #26b0bf;
+}
+
+.lists{
+list-style-type: circle;
+font-size: 20px;	
+}
 /* Style the image inside the centered container, if needed */
 .centered img {
   width: 150px;

@@ -15,37 +15,54 @@
     <link href="${gradientsCss}" rel="stylesheet">
   </head>
   <body >
-    <div >
-      <div >
+    <div class="left">
 
-      </div>
-
-      <header>
-        
-      </header>
-      <div class="split left">
-          <div class="centered">
-            <img alt="Avatar woman" style="width:50px;height:60px;">
-            <h2>Need to display picture here</h2>
-            <p>Some text.</p>
-          </div>
-        </div>
-        
-        <div class="split right">
-          <div class="centered">
-            <img src="" alt="Avatar man">
-            <h2>Srinivas Jaladi</h2>
-            <p>Some text here too.</p>
-          </div>
-        </div>
-      
+      <h2>Need to display picture here</h2>
+      <p>Some text.</p>
+  
     </div>
-
-    <footer>
-
-   
-    </footer>
-
+  
+    <div class="split right">
+      <div class="centered">
+        <div class="headings">
+          <h1>Srinivas Jaladi</h1>
+        </div>
+        <p class="para">
+          Quality-oriented Computer Engineering major (3.33GPA) currently attending University of Houston, with close to 3 years of
+          work experience. Aiming to leverage a proven knowledge of application development, real time data, and web design skills to
+          successfully fill the Java Developer role at your company. Frequently praised as efficient by my peers, I can be relied upon to help your
+          company achieve its goals</p><br>
+          <h3>SKILLS</h3>
+          <h5>Languages</h5>
+          <div class="lists">
+          <li>Java</li>
+          <li>Python</li>
+          <li>J2EE</li>
+          <li>JavaScript</li>	
+          <li>HTML5</li>												
+          <li>SQL</li>
+          
+  
+        </div>
+        <h5>Frameworks</h5>
+          <div class="lists">
+          <li>Spring core</li>
+          <li>Spring MVC</li>
+          <li>React</li>
+        </div>
+        <h5>Tools</h5>
+          <div class="lists">
+          <li>VS code</li>
+          <li>Eclipse</li>
+          <li>Toad & Squirrel</li>
+                
+        </div>
+        
+        <h3>Work Experience</h3>
+          
+      </div>
+    </div>
+      
    
   </body>
 </html>
